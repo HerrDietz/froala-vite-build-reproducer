@@ -1,0 +1,16 @@
+{
+  "name": "froala-vite-reproducer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev-watch": "vite build -d --watch --config ./vite-conf.js"
+  },
+  "dependencies": {
+    "froala-editor": "4.4.0"
+  },
+  "devDependencies": {
+    "typescript": "5.7.3",
+    "vite": "6.1.0"
+  }
+}
