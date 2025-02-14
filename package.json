@@ -10,7 +10,6 @@
     "froala-editor": "4.4.0"
   },
   "devDependencies": {
-    "typescript": "5.7.3",
     "vite": "6.1.0"
   }
 }
